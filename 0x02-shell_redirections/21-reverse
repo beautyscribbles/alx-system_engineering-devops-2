@@ -1,2 +1,2 @@
-#!/bin/bsh
-echo "rev"
+#!/bin/bash
+ rev
